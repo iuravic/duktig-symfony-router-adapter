@@ -1,0 +1,1 @@
+# duktig-symfony-router-adapter
