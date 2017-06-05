@@ -1,0 +1,24 @@
+{
+    "name": "iuravic/duktig-symfony-router-adapter",
+    "type": "library",
+    "authors": [
+        {"name": "Ivan Uravić", "email": "iuravic@gmail.com"}
+    ],
+    "license": ["MIT"],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1",
+        "iuravic/duktig-core": "dev-master",
+        "symfony/routing": "^3.2",
+        "psr/http-message": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1",
+        "mockery/mockery": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Duktig\\Route\\Router\\Adapter\\SymfonyRouter\\": "src/"
+        }
+    }
+}
