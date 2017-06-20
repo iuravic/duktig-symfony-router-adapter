@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/iuravic/duktig-symfony-router-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-symfony-router-adapter)
+[![Build Status](https://travis-ci.org/iuravic/duktig-symfony-router-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-symfony-router-adapter) [![Coverage Status](https://coveralls.io/repos/github/iuravic/duktig-symfony-router-adapter/badge.svg?branch=master)](https://coveralls.io/github/iuravic/duktig-symfony-router-adapter?branch=master)
 
 # duktig-symfony-router-adapter
 
